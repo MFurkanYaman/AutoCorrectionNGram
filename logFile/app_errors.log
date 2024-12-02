@@ -1,0 +1,851 @@
+24-11-2024 20:58:52 - INFO - Data successfully deserialized.
+24-11-2024 20:58:52 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.104:5000
+24-11-2024 20:58:52 - INFO - [33mPress CTRL+C to quit[0m
+24-11-2024 20:58:53 - INFO - Code executed successfully.
+24-11-2024 20:58:53 - INFO - 127.0.0.1 - - [24/Nov/2024 20:58:53] "POST / HTTP/1.1" 200 -
+24-11-2024 21:01:01 - INFO - Code executed successfully.
+24-11-2024 21:01:01 - INFO - 127.0.0.1 - - [24/Nov/2024 21:01:01] "POST / HTTP/1.1" 200 -
+24-11-2024 21:01:05 - INFO - Code executed successfully.
+24-11-2024 21:01:05 - INFO - 127.0.0.1 - - [24/Nov/2024 21:01:05] "POST / HTTP/1.1" 200 -
+24-11-2024 21:01:08 - INFO - Code executed successfully.
+24-11-2024 21:01:08 - INFO - 127.0.0.1 - - [24/Nov/2024 21:01:08] "POST / HTTP/1.1" 200 -
+24-11-2024 21:01:43 - INFO - Data successfully deserialized.
+24-11-2024 21:01:43 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.104:5000
+24-11-2024 21:01:43 - INFO - [33mPress CTRL+C to quit[0m
+24-11-2024 21:01:45 - INFO - Code executed successfully.
+24-11-2024 21:01:45 - INFO - 127.0.0.1 - - [24/Nov/2024 21:01:45] "POST / HTTP/1.1" 200 -
+24-11-2024 21:01:47 - INFO - Code executed successfully.
+24-11-2024 21:01:47 - INFO - 127.0.0.1 - - [24/Nov/2024 21:01:47] "POST / HTTP/1.1" 200 -
+24-11-2024 21:02:05 - INFO - Code executed successfully.
+24-11-2024 21:02:05 - INFO - 127.0.0.1 - - [24/Nov/2024 21:02:05] "POST / HTTP/1.1" 200 -
+24-11-2024 21:02:12 - INFO - Code executed successfully.
+24-11-2024 21:02:12 - INFO - 127.0.0.1 - - [24/Nov/2024 21:02:12] "POST / HTTP/1.1" 200 -
+24-11-2024 21:02:21 - INFO - Code executed successfully.
+24-11-2024 21:02:21 - INFO - 127.0.0.1 - - [24/Nov/2024 21:02:21] "POST / HTTP/1.1" 200 -
+24-11-2024 21:02:25 - INFO - Code executed successfully.
+24-11-2024 21:02:25 - INFO - 127.0.0.1 - - [24/Nov/2024 21:02:25] "POST / HTTP/1.1" 200 -
+24-11-2024 21:02:32 - INFO - Code executed successfully.
+24-11-2024 21:02:32 - INFO - 127.0.0.1 - - [24/Nov/2024 21:02:32] "POST / HTTP/1.1" 200 -
+25-11-2024 09:35:27 - INFO - Data successfully deserialized.
+25-11-2024 09:35:27 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:35:27 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:35:47 - INFO - Code executed successfully.
+25-11-2024 09:35:47 - INFO - 127.0.0.1 - - [25/Nov/2024 09:35:47] "POST / HTTP/1.1" 200 -
+25-11-2024 09:35:54 - INFO - Code executed successfully.
+25-11-2024 09:35:54 - INFO - 127.0.0.1 - - [25/Nov/2024 09:35:54] "POST / HTTP/1.1" 200 -
+25-11-2024 09:36:00 - INFO - Code executed successfully.
+25-11-2024 09:36:00 - INFO - 127.0.0.1 - - [25/Nov/2024 09:36:00] "POST / HTTP/1.1" 200 -
+25-11-2024 09:51:51 - INFO - Data successfully deserialized.
+25-11-2024 09:51:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:51:51 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:51:56 - INFO - Code executed successfully.
+25-11-2024 09:51:56 - INFO - 127.0.0.1 - - [25/Nov/2024 09:51:56] "POST / HTTP/1.1" 200 -
+25-11-2024 09:54:26 - INFO - Data successfully deserialized.
+25-11-2024 09:54:26 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:54:26 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:54:29 - INFO - Code executed successfully.
+25-11-2024 09:54:29 - INFO - 127.0.0.1 - - [25/Nov/2024 09:54:29] "POST / HTTP/1.1" 200 -
+25-11-2024 09:56:39 - INFO - Data successfully deserialized.
+25-11-2024 09:56:39 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:56:39 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:56:43 - INFO - Code executed successfully.
+25-11-2024 09:56:43 - INFO - 127.0.0.1 - - [25/Nov/2024 09:56:43] "POST / HTTP/1.1" 200 -
+25-11-2024 09:56:52 - INFO - Code executed successfully.
+25-11-2024 09:56:52 - INFO - 127.0.0.1 - - [25/Nov/2024 09:56:52] "POST / HTTP/1.1" 200 -
+25-11-2024 09:57:08 - INFO - Data successfully deserialized.
+25-11-2024 09:57:08 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:57:08 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:57:15 - INFO - Code executed successfully.
+25-11-2024 09:57:15 - INFO - 127.0.0.1 - - [25/Nov/2024 09:57:15] "POST / HTTP/1.1" 200 -
+25-11-2024 09:58:04 - INFO - Data successfully deserialized.
+25-11-2024 09:58:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:58:04 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:58:14 - INFO - Code executed successfully.
+25-11-2024 09:58:14 - INFO - 127.0.0.1 - - [25/Nov/2024 09:58:14] "POST / HTTP/1.1" 200 -
+25-11-2024 09:58:24 - INFO - Code executed successfully.
+25-11-2024 09:58:24 - INFO - 127.0.0.1 - - [25/Nov/2024 09:58:24] "POST / HTTP/1.1" 200 -
+25-11-2024 09:58:33 - INFO - Data successfully deserialized.
+25-11-2024 09:58:33 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:58:33 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:58:40 - INFO - Code executed successfully.
+25-11-2024 09:58:40 - INFO - 127.0.0.1 - - [25/Nov/2024 09:58:40] "POST / HTTP/1.1" 200 -
+25-11-2024 09:59:21 - INFO - Data successfully deserialized.
+25-11-2024 09:59:21 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 09:59:21 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 09:59:23 - INFO - Code executed successfully.
+25-11-2024 09:59:23 - INFO - 127.0.0.1 - - [25/Nov/2024 09:59:23] "POST / HTTP/1.1" 200 -
+25-11-2024 09:59:31 - INFO - Code executed successfully.
+25-11-2024 09:59:31 - INFO - 127.0.0.1 - - [25/Nov/2024 09:59:31] "POST / HTTP/1.1" 200 -
+25-11-2024 09:59:36 - INFO - Code executed successfully.
+25-11-2024 09:59:36 - INFO - 127.0.0.1 - - [25/Nov/2024 09:59:36] "POST / HTTP/1.1" 200 -
+25-11-2024 10:00:29 - INFO - Data successfully deserialized.
+25-11-2024 10:00:29 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:00:29 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:00:32 - INFO - Code executed successfully.
+25-11-2024 10:00:32 - INFO - 127.0.0.1 - - [25/Nov/2024 10:00:32] "POST / HTTP/1.1" 200 -
+25-11-2024 10:00:33 - INFO - Code executed successfully.
+25-11-2024 10:00:33 - INFO - 127.0.0.1 - - [25/Nov/2024 10:00:33] "POST / HTTP/1.1" 200 -
+25-11-2024 10:00:38 - INFO - Code executed successfully.
+25-11-2024 10:00:38 - INFO - 127.0.0.1 - - [25/Nov/2024 10:00:38] "POST / HTTP/1.1" 200 -
+25-11-2024 10:01:41 - INFO - Code executed successfully.
+25-11-2024 10:01:41 - INFO - 127.0.0.1 - - [25/Nov/2024 10:01:41] "POST / HTTP/1.1" 200 -
+25-11-2024 10:01:48 - INFO - Code executed successfully.
+25-11-2024 10:01:48 - INFO - 127.0.0.1 - - [25/Nov/2024 10:01:48] "POST / HTTP/1.1" 200 -
+25-11-2024 10:01:54 - INFO - Code executed successfully.
+25-11-2024 10:01:54 - INFO - 127.0.0.1 - - [25/Nov/2024 10:01:54] "POST / HTTP/1.1" 200 -
+25-11-2024 10:02:10 - INFO - Code executed successfully.
+25-11-2024 10:02:10 - INFO - 127.0.0.1 - - [25/Nov/2024 10:02:10] "POST / HTTP/1.1" 200 -
+25-11-2024 10:02:24 - INFO - Code executed successfully.
+25-11-2024 10:02:24 - INFO - 127.0.0.1 - - [25/Nov/2024 10:02:24] "POST / HTTP/1.1" 200 -
+25-11-2024 10:02:51 - INFO - Code executed successfully.
+25-11-2024 10:02:51 - INFO - 127.0.0.1 - - [25/Nov/2024 10:02:51] "POST / HTTP/1.1" 200 -
+25-11-2024 10:03:07 - INFO - Code executed successfully.
+25-11-2024 10:03:07 - INFO - 127.0.0.1 - - [25/Nov/2024 10:03:07] "POST / HTTP/1.1" 200 -
+25-11-2024 10:03:13 - INFO - Code executed successfully.
+25-11-2024 10:03:13 - INFO - 127.0.0.1 - - [25/Nov/2024 10:03:13] "POST / HTTP/1.1" 200 -
+25-11-2024 10:04:19 - INFO - Data successfully deserialized.
+25-11-2024 10:04:19 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:04:19 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:04:32 - INFO - Code executed successfully.
+25-11-2024 10:04:32 - INFO - 127.0.0.1 - - [25/Nov/2024 10:04:32] "POST / HTTP/1.1" 200 -
+25-11-2024 10:04:39 - INFO - Code executed successfully.
+25-11-2024 10:04:39 - INFO - 127.0.0.1 - - [25/Nov/2024 10:04:39] "POST / HTTP/1.1" 200 -
+25-11-2024 10:04:48 - INFO - Code executed successfully.
+25-11-2024 10:04:48 - INFO - 127.0.0.1 - - [25/Nov/2024 10:04:48] "POST / HTTP/1.1" 200 -
+25-11-2024 10:04:56 - INFO - Code executed successfully.
+25-11-2024 10:04:56 - INFO - 127.0.0.1 - - [25/Nov/2024 10:04:56] "POST / HTTP/1.1" 200 -
+25-11-2024 10:05:14 - INFO - Code executed successfully.
+25-11-2024 10:05:14 - INFO - 127.0.0.1 - - [25/Nov/2024 10:05:14] "POST / HTTP/1.1" 200 -
+25-11-2024 10:05:21 - INFO - Code executed successfully.
+25-11-2024 10:05:21 - INFO - 127.0.0.1 - - [25/Nov/2024 10:05:21] "POST / HTTP/1.1" 200 -
+25-11-2024 10:05:31 - INFO - Code executed successfully.
+25-11-2024 10:05:31 - INFO - 127.0.0.1 - - [25/Nov/2024 10:05:31] "POST / HTTP/1.1" 200 -
+25-11-2024 10:05:43 - INFO - Code executed successfully.
+25-11-2024 10:05:43 - INFO - 127.0.0.1 - - [25/Nov/2024 10:05:43] "POST / HTTP/1.1" 200 -
+25-11-2024 10:06:21 - INFO - Code executed successfully.
+25-11-2024 10:06:21 - INFO - 127.0.0.1 - - [25/Nov/2024 10:06:21] "POST / HTTP/1.1" 200 -
+25-11-2024 10:07:04 - INFO - Code executed successfully.
+25-11-2024 10:07:04 - INFO - 127.0.0.1 - - [25/Nov/2024 10:07:04] "POST / HTTP/1.1" 200 -
+25-11-2024 10:07:19 - INFO - Code executed successfully.
+25-11-2024 10:07:19 - INFO - 127.0.0.1 - - [25/Nov/2024 10:07:19] "POST / HTTP/1.1" 200 -
+25-11-2024 10:07:26 - INFO - Code executed successfully.
+25-11-2024 10:07:26 - INFO - 127.0.0.1 - - [25/Nov/2024 10:07:26] "POST / HTTP/1.1" 200 -
+25-11-2024 10:07:36 - INFO - Code executed successfully.
+25-11-2024 10:07:36 - INFO - 127.0.0.1 - - [25/Nov/2024 10:07:36] "POST / HTTP/1.1" 200 -
+25-11-2024 10:07:48 - INFO - Data successfully deserialized.
+25-11-2024 10:07:48 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:07:48 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:07:50 - INFO - Code executed successfully.
+25-11-2024 10:07:50 - INFO - 127.0.0.1 - - [25/Nov/2024 10:07:50] "POST / HTTP/1.1" 200 -
+25-11-2024 10:07:52 - INFO - Code executed successfully.
+25-11-2024 10:07:52 - INFO - 127.0.0.1 - - [25/Nov/2024 10:07:52] "POST / HTTP/1.1" 200 -
+25-11-2024 10:08:24 - INFO - Data successfully deserialized.
+25-11-2024 10:08:24 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:08:24 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:08:26 - INFO - Code executed successfully.
+25-11-2024 10:08:26 - INFO - 127.0.0.1 - - [25/Nov/2024 10:08:26] "POST / HTTP/1.1" 200 -
+25-11-2024 10:08:33 - INFO - Code executed successfully.
+25-11-2024 10:08:33 - INFO - 127.0.0.1 - - [25/Nov/2024 10:08:33] "POST / HTTP/1.1" 200 -
+25-11-2024 10:09:13 - INFO - Code executed successfully.
+25-11-2024 10:09:13 - INFO - 127.0.0.1 - - [25/Nov/2024 10:09:13] "POST / HTTP/1.1" 200 -
+25-11-2024 10:09:19 - INFO - Code executed successfully.
+25-11-2024 10:09:19 - INFO - 127.0.0.1 - - [25/Nov/2024 10:09:19] "POST / HTTP/1.1" 200 -
+25-11-2024 10:09:32 - INFO - Code executed successfully.
+25-11-2024 10:09:32 - INFO - 127.0.0.1 - - [25/Nov/2024 10:09:32] "POST / HTTP/1.1" 200 -
+25-11-2024 10:10:27 - INFO - Code executed successfully.
+25-11-2024 10:10:27 - INFO - 127.0.0.1 - - [25/Nov/2024 10:10:27] "POST / HTTP/1.1" 200 -
+25-11-2024 10:10:46 - INFO - Code executed successfully.
+25-11-2024 10:10:46 - INFO - 127.0.0.1 - - [25/Nov/2024 10:10:46] "POST / HTTP/1.1" 200 -
+25-11-2024 10:11:10 - INFO - Code executed successfully.
+25-11-2024 10:11:10 - INFO - 127.0.0.1 - - [25/Nov/2024 10:11:10] "POST / HTTP/1.1" 200 -
+25-11-2024 10:11:31 - INFO - Code executed successfully.
+25-11-2024 10:11:31 - INFO - 127.0.0.1 - - [25/Nov/2024 10:11:31] "POST / HTTP/1.1" 200 -
+25-11-2024 10:11:48 - INFO - Code executed successfully.
+25-11-2024 10:11:48 - INFO - 127.0.0.1 - - [25/Nov/2024 10:11:48] "POST / HTTP/1.1" 200 -
+25-11-2024 10:17:16 - INFO - Data successfully deserialized.
+25-11-2024 10:17:16 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:17:16 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:17:20 - INFO - Code executed successfully.
+25-11-2024 10:17:20 - INFO - 127.0.0.1 - - [25/Nov/2024 10:17:20] "POST / HTTP/1.1" 200 -
+25-11-2024 10:17:32 - INFO - Code executed successfully.
+25-11-2024 10:17:32 - INFO - 127.0.0.1 - - [25/Nov/2024 10:17:32] "POST / HTTP/1.1" 200 -
+25-11-2024 10:18:25 - INFO - Code executed successfully.
+25-11-2024 10:18:25 - INFO - 127.0.0.1 - - [25/Nov/2024 10:18:25] "POST / HTTP/1.1" 200 -
+25-11-2024 10:18:36 - INFO - Code executed successfully.
+25-11-2024 10:18:36 - INFO - 127.0.0.1 - - [25/Nov/2024 10:18:36] "POST / HTTP/1.1" 200 -
+25-11-2024 10:18:48 - INFO - Code executed successfully.
+25-11-2024 10:18:48 - INFO - 127.0.0.1 - - [25/Nov/2024 10:18:48] "POST / HTTP/1.1" 200 -
+25-11-2024 10:19:49 - INFO - Code executed successfully.
+25-11-2024 10:19:49 - INFO - 127.0.0.1 - - [25/Nov/2024 10:19:49] "POST / HTTP/1.1" 200 -
+25-11-2024 10:20:00 - INFO - Code executed successfully.
+25-11-2024 10:20:00 - INFO - 127.0.0.1 - - [25/Nov/2024 10:20:00] "POST / HTTP/1.1" 200 -
+25-11-2024 10:20:11 - INFO - Code executed successfully.
+25-11-2024 10:20:11 - INFO - 127.0.0.1 - - [25/Nov/2024 10:20:11] "POST / HTTP/1.1" 200 -
+25-11-2024 10:33:21 - INFO - Data successfully deserialized.
+25-11-2024 10:33:21 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:33:21 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:33:23 - INFO - Code executed successfully.
+25-11-2024 10:33:23 - INFO - 127.0.0.1 - - [25/Nov/2024 10:33:23] "POST / HTTP/1.1" 200 -
+25-11-2024 10:34:23 - INFO - Data successfully deserialized.
+25-11-2024 10:34:23 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:34:23 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:34:25 - INFO - Code executed successfully.
+25-11-2024 10:34:25 - INFO - 127.0.0.1 - - [25/Nov/2024 10:34:25] "POST / HTTP/1.1" 200 -
+25-11-2024 10:34:28 - INFO - Code executed successfully.
+25-11-2024 10:34:28 - INFO - 127.0.0.1 - - [25/Nov/2024 10:34:28] "POST / HTTP/1.1" 200 -
+25-11-2024 10:34:35 - INFO - Code executed successfully.
+25-11-2024 10:34:35 - INFO - 127.0.0.1 - - [25/Nov/2024 10:34:35] "POST / HTTP/1.1" 200 -
+25-11-2024 10:35:15 - INFO - Data successfully deserialized.
+25-11-2024 10:35:15 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:35:15 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:35:16 - INFO - Code executed successfully.
+25-11-2024 10:35:16 - INFO - 127.0.0.1 - - [25/Nov/2024 10:35:16] "POST / HTTP/1.1" 200 -
+25-11-2024 10:35:18 - INFO - Code executed successfully.
+25-11-2024 10:35:18 - INFO - 127.0.0.1 - - [25/Nov/2024 10:35:18] "POST / HTTP/1.1" 200 -
+25-11-2024 10:35:23 - INFO - Code executed successfully.
+25-11-2024 10:35:23 - INFO - 127.0.0.1 - - [25/Nov/2024 10:35:23] "POST / HTTP/1.1" 200 -
+25-11-2024 10:35:35 - INFO - Code executed successfully.
+25-11-2024 10:35:35 - INFO - 127.0.0.1 - - [25/Nov/2024 10:35:35] "POST / HTTP/1.1" 200 -
+25-11-2024 10:35:37 - INFO - Code executed successfully.
+25-11-2024 10:35:37 - INFO - 127.0.0.1 - - [25/Nov/2024 10:35:37] "POST / HTTP/1.1" 200 -
+25-11-2024 10:35:39 - INFO - Code executed successfully.
+25-11-2024 10:35:39 - INFO - 127.0.0.1 - - [25/Nov/2024 10:35:39] "POST / HTTP/1.1" 200 -
+25-11-2024 10:35:41 - INFO - Code executed successfully.
+25-11-2024 10:35:41 - INFO - 127.0.0.1 - - [25/Nov/2024 10:35:41] "POST / HTTP/1.1" 200 -
+25-11-2024 10:37:00 - INFO - Code executed successfully.
+25-11-2024 10:37:00 - INFO - 127.0.0.1 - - [25/Nov/2024 10:37:00] "POST / HTTP/1.1" 200 -
+25-11-2024 10:37:39 - INFO - Code executed successfully.
+25-11-2024 10:37:39 - INFO - 127.0.0.1 - - [25/Nov/2024 10:37:39] "POST / HTTP/1.1" 200 -
+25-11-2024 10:38:39 - INFO - Data successfully deserialized.
+25-11-2024 10:38:39 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:38:39 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:38:39 - INFO - Code executed successfully.
+25-11-2024 10:38:39 - INFO - 127.0.0.1 - - [25/Nov/2024 10:38:39] "POST / HTTP/1.1" 200 -
+25-11-2024 10:38:41 - INFO - Code executed successfully.
+25-11-2024 10:38:41 - INFO - 127.0.0.1 - - [25/Nov/2024 10:38:41] "POST / HTTP/1.1" 200 -
+25-11-2024 10:38:49 - INFO - Code executed successfully.
+25-11-2024 10:38:49 - INFO - 127.0.0.1 - - [25/Nov/2024 10:38:49] "POST / HTTP/1.1" 200 -
+25-11-2024 10:39:07 - INFO - Code executed successfully.
+25-11-2024 10:39:07 - INFO - 127.0.0.1 - - [25/Nov/2024 10:39:07] "POST / HTTP/1.1" 200 -
+25-11-2024 10:39:19 - INFO - Code executed successfully.
+25-11-2024 10:39:19 - INFO - 127.0.0.1 - - [25/Nov/2024 10:39:19] "POST / HTTP/1.1" 200 -
+25-11-2024 10:39:22 - INFO - Code executed successfully.
+25-11-2024 10:39:22 - INFO - 127.0.0.1 - - [25/Nov/2024 10:39:22] "POST / HTTP/1.1" 200 -
+25-11-2024 10:39:24 - INFO - Code executed successfully.
+25-11-2024 10:39:24 - INFO - 127.0.0.1 - - [25/Nov/2024 10:39:24] "POST / HTTP/1.1" 200 -
+25-11-2024 10:39:26 - INFO - Code executed successfully.
+25-11-2024 10:39:26 - INFO - 127.0.0.1 - - [25/Nov/2024 10:39:26] "POST / HTTP/1.1" 200 -
+25-11-2024 10:43:31 - INFO - Data successfully deserialized.
+25-11-2024 10:43:31 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:43:31 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:43:34 - INFO - Code executed successfully.
+25-11-2024 10:43:34 - INFO - 127.0.0.1 - - [25/Nov/2024 10:43:34] "POST / HTTP/1.1" 200 -
+25-11-2024 10:43:36 - INFO - Code executed successfully.
+25-11-2024 10:43:36 - INFO - 127.0.0.1 - - [25/Nov/2024 10:43:36] "POST / HTTP/1.1" 200 -
+25-11-2024 10:43:37 - INFO - Code executed successfully.
+25-11-2024 10:43:37 - INFO - 127.0.0.1 - - [25/Nov/2024 10:43:37] "POST / HTTP/1.1" 200 -
+25-11-2024 10:43:46 - INFO - Code executed successfully.
+25-11-2024 10:43:46 - INFO - 127.0.0.1 - - [25/Nov/2024 10:43:46] "POST / HTTP/1.1" 200 -
+25-11-2024 10:43:54 - INFO - Code executed successfully.
+25-11-2024 10:43:54 - INFO - 127.0.0.1 - - [25/Nov/2024 10:43:54] "POST / HTTP/1.1" 200 -
+25-11-2024 10:44:00 - INFO - Code executed successfully.
+25-11-2024 10:44:00 - INFO - 127.0.0.1 - - [25/Nov/2024 10:44:00] "POST / HTTP/1.1" 200 -
+25-11-2024 10:48:25 - INFO - Code executed successfully.
+25-11-2024 10:48:25 - INFO - 127.0.0.1 - - [25/Nov/2024 10:48:25] "POST / HTTP/1.1" 200 -
+25-11-2024 10:48:28 - INFO - Code executed successfully.
+25-11-2024 10:48:28 - INFO - 127.0.0.1 - - [25/Nov/2024 10:48:28] "POST / HTTP/1.1" 200 -
+25-11-2024 10:50:27 - INFO - Data successfully deserialized.
+25-11-2024 10:50:27 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 10:50:27 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 10:50:30 - INFO - Code executed successfully.
+25-11-2024 10:50:30 - INFO - 127.0.0.1 - - [25/Nov/2024 10:50:30] "POST / HTTP/1.1" 200 -
+25-11-2024 10:50:31 - INFO - Code executed successfully.
+25-11-2024 10:50:31 - INFO - 127.0.0.1 - - [25/Nov/2024 10:50:31] "POST / HTTP/1.1" 200 -
+25-11-2024 10:50:32 - INFO - Code executed successfully.
+25-11-2024 10:50:32 - INFO - 127.0.0.1 - - [25/Nov/2024 10:50:32] "POST / HTTP/1.1" 200 -
+25-11-2024 10:50:33 - INFO - Code executed successfully.
+25-11-2024 10:50:33 - INFO - 127.0.0.1 - - [25/Nov/2024 10:50:33] "POST / HTTP/1.1" 200 -
+25-11-2024 10:50:41 - INFO - Code executed successfully.
+25-11-2024 10:50:41 - INFO - 127.0.0.1 - - [25/Nov/2024 10:50:41] "POST / HTTP/1.1" 200 -
+25-11-2024 11:00:51 - INFO - Data successfully deserialized.
+25-11-2024 11:00:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:00:51 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:00:53 - INFO - Code executed successfully.
+25-11-2024 11:00:53 - INFO - 127.0.0.1 - - [25/Nov/2024 11:00:53] "POST / HTTP/1.1" 200 -
+25-11-2024 11:00:55 - INFO - Code executed successfully.
+25-11-2024 11:00:55 - INFO - 127.0.0.1 - - [25/Nov/2024 11:00:55] "POST / HTTP/1.1" 200 -
+25-11-2024 11:00:56 - INFO - Code executed successfully.
+25-11-2024 11:00:56 - INFO - 127.0.0.1 - - [25/Nov/2024 11:00:56] "POST / HTTP/1.1" 200 -
+25-11-2024 11:01:03 - INFO - Code executed successfully.
+25-11-2024 11:01:03 - INFO - 127.0.0.1 - - [25/Nov/2024 11:01:03] "POST / HTTP/1.1" 200 -
+25-11-2024 11:01:13 - INFO - Code executed successfully.
+25-11-2024 11:01:13 - ERROR - app.py--> Object of type function is not JSON serializable
+25-11-2024 11:01:13 - INFO - 127.0.0.1 - - [25/Nov/2024 11:01:13] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-11-2024 11:01:26 - INFO - Code executed successfully.
+25-11-2024 11:01:26 - ERROR - app.py--> Object of type function is not JSON serializable
+25-11-2024 11:01:26 - INFO - 127.0.0.1 - - [25/Nov/2024 11:01:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-11-2024 11:01:50 - INFO - Code executed successfully.
+25-11-2024 11:01:50 - INFO - 127.0.0.1 - - [25/Nov/2024 11:01:50] "POST / HTTP/1.1" 200 -
+25-11-2024 11:01:55 - INFO - Code executed successfully.
+25-11-2024 11:01:55 - ERROR - app.py--> Object of type function is not JSON serializable
+25-11-2024 11:01:55 - INFO - 127.0.0.1 - - [25/Nov/2024 11:01:55] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-11-2024 11:02:05 - INFO - Code executed successfully.
+25-11-2024 11:02:05 - INFO - 127.0.0.1 - - [25/Nov/2024 11:02:05] "POST / HTTP/1.1" 200 -
+25-11-2024 11:02:13 - INFO - Code executed successfully.
+25-11-2024 11:02:13 - INFO - 127.0.0.1 - - [25/Nov/2024 11:02:13] "POST / HTTP/1.1" 200 -
+25-11-2024 11:02:18 - INFO - Code executed successfully.
+25-11-2024 11:02:19 - ERROR - app.py--> Object of type function is not JSON serializable
+25-11-2024 11:02:19 - INFO - 127.0.0.1 - - [25/Nov/2024 11:02:19] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-11-2024 11:04:02 - INFO - Code executed successfully.
+25-11-2024 11:04:02 - INFO - 127.0.0.1 - - [25/Nov/2024 11:04:02] "POST / HTTP/1.1" 200 -
+25-11-2024 11:04:07 - INFO - Code executed successfully.
+25-11-2024 11:04:07 - INFO - 127.0.0.1 - - [25/Nov/2024 11:04:07] "POST / HTTP/1.1" 200 -
+25-11-2024 11:05:15 - INFO - Data successfully deserialized.
+25-11-2024 11:05:15 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:05:15 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:05:16 - INFO - Code executed successfully.
+25-11-2024 11:05:16 - INFO - 127.0.0.1 - - [25/Nov/2024 11:05:16] "POST / HTTP/1.1" 200 -
+25-11-2024 11:05:18 - INFO - Code executed successfully.
+25-11-2024 11:05:18 - INFO - 127.0.0.1 - - [25/Nov/2024 11:05:18] "POST / HTTP/1.1" 200 -
+25-11-2024 11:05:31 - INFO - Code executed successfully.
+25-11-2024 11:05:31 - INFO - 127.0.0.1 - - [25/Nov/2024 11:05:31] "POST / HTTP/1.1" 200 -
+25-11-2024 11:07:24 - INFO - Data successfully deserialized.
+25-11-2024 11:07:24 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:07:24 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:08:10 - INFO - Code executed successfully.
+25-11-2024 11:08:10 - INFO - 127.0.0.1 - - [25/Nov/2024 11:08:10] "POST / HTTP/1.1" 200 -
+25-11-2024 11:08:19 - INFO - Code executed successfully.
+25-11-2024 11:08:19 - INFO - 127.0.0.1 - - [25/Nov/2024 11:08:19] "POST / HTTP/1.1" 200 -
+25-11-2024 11:08:26 - INFO - Code executed successfully.
+25-11-2024 11:08:26 - INFO - 127.0.0.1 - - [25/Nov/2024 11:08:26] "POST / HTTP/1.1" 200 -
+25-11-2024 11:08:57 - INFO - Data successfully deserialized.
+25-11-2024 11:08:57 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:08:57 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:08:58 - INFO - Code executed successfully.
+25-11-2024 11:08:58 - INFO - 127.0.0.1 - - [25/Nov/2024 11:08:58] "POST / HTTP/1.1" 200 -
+25-11-2024 11:08:59 - INFO - Code executed successfully.
+25-11-2024 11:08:59 - INFO - 127.0.0.1 - - [25/Nov/2024 11:08:59] "POST / HTTP/1.1" 200 -
+25-11-2024 11:09:22 - INFO - Data successfully deserialized.
+25-11-2024 11:09:22 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:09:22 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:09:25 - INFO - Code executed successfully.
+25-11-2024 11:09:25 - INFO - 127.0.0.1 - - [25/Nov/2024 11:09:25] "POST / HTTP/1.1" 200 -
+25-11-2024 11:09:36 - INFO - Code executed successfully.
+25-11-2024 11:09:36 - INFO - 127.0.0.1 - - [25/Nov/2024 11:09:36] "POST / HTTP/1.1" 200 -
+25-11-2024 11:09:37 - INFO - Code executed successfully.
+25-11-2024 11:09:37 - INFO - 127.0.0.1 - - [25/Nov/2024 11:09:37] "POST / HTTP/1.1" 200 -
+25-11-2024 11:09:38 - INFO - Code executed successfully.
+25-11-2024 11:09:38 - INFO - 127.0.0.1 - - [25/Nov/2024 11:09:38] "POST / HTTP/1.1" 200 -
+25-11-2024 11:09:40 - INFO - Code executed successfully.
+25-11-2024 11:09:40 - INFO - 127.0.0.1 - - [25/Nov/2024 11:09:40] "POST / HTTP/1.1" 200 -
+25-11-2024 11:09:50 - INFO - Code executed successfully.
+25-11-2024 11:09:50 - INFO - 127.0.0.1 - - [25/Nov/2024 11:09:50] "POST / HTTP/1.1" 200 -
+25-11-2024 11:09:58 - INFO - Code executed successfully.
+25-11-2024 11:09:58 - INFO - 127.0.0.1 - - [25/Nov/2024 11:09:58] "POST / HTTP/1.1" 200 -
+25-11-2024 11:10:51 - INFO - Data successfully deserialized.
+25-11-2024 11:10:51 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:10:51 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:10:54 - INFO - Code executed successfully.
+25-11-2024 11:10:54 - INFO - 127.0.0.1 - - [25/Nov/2024 11:10:54] "POST / HTTP/1.1" 200 -
+25-11-2024 11:10:59 - INFO - Code executed successfully.
+25-11-2024 11:10:59 - INFO - 127.0.0.1 - - [25/Nov/2024 11:10:59] "POST / HTTP/1.1" 200 -
+25-11-2024 11:11:12 - INFO - Code executed successfully.
+25-11-2024 11:11:12 - INFO - 127.0.0.1 - - [25/Nov/2024 11:11:12] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:00 - INFO - Data successfully deserialized.
+25-11-2024 11:15:00 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:15:00 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:15:08 - INFO - Code executed successfully.
+25-11-2024 11:15:08 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:08] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:10 - INFO - Code executed successfully.
+25-11-2024 11:15:10 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:10] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:12 - INFO - Code executed successfully.
+25-11-2024 11:15:12 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:12] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:21 - INFO - Code executed successfully.
+25-11-2024 11:15:21 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:21] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:37 - INFO - Code executed successfully.
+25-11-2024 11:15:37 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:37] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:52 - INFO - Code executed successfully.
+25-11-2024 11:15:52 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:52] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:53 - INFO - Code executed successfully.
+25-11-2024 11:15:53 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:53] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:54 - INFO - Code executed successfully.
+25-11-2024 11:15:54 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:54] "POST / HTTP/1.1" 200 -
+25-11-2024 11:15:55 - INFO - Code executed successfully.
+25-11-2024 11:15:55 - INFO - 127.0.0.1 - - [25/Nov/2024 11:15:55] "POST / HTTP/1.1" 200 -
+25-11-2024 11:16:10 - INFO - Code executed successfully.
+25-11-2024 11:16:10 - INFO - 127.0.0.1 - - [25/Nov/2024 11:16:10] "POST / HTTP/1.1" 200 -
+25-11-2024 11:16:25 - INFO - Code executed successfully.
+25-11-2024 11:16:25 - INFO - 127.0.0.1 - - [25/Nov/2024 11:16:25] "POST / HTTP/1.1" 200 -
+25-11-2024 11:16:28 - INFO - Code executed successfully.
+25-11-2024 11:16:28 - INFO - 127.0.0.1 - - [25/Nov/2024 11:16:28] "POST / HTTP/1.1" 200 -
+25-11-2024 11:16:29 - INFO - Code executed successfully.
+25-11-2024 11:16:29 - INFO - 127.0.0.1 - - [25/Nov/2024 11:16:29] "POST / HTTP/1.1" 200 -
+25-11-2024 11:19:59 - INFO - Code executed successfully.
+25-11-2024 11:19:59 - INFO - 127.0.0.1 - - [25/Nov/2024 11:19:59] "POST / HTTP/1.1" 200 -
+25-11-2024 11:20:13 - INFO - Code executed successfully.
+25-11-2024 11:20:13 - INFO - 127.0.0.1 - - [25/Nov/2024 11:20:13] "POST / HTTP/1.1" 200 -
+25-11-2024 11:20:27 - INFO - Code executed successfully.
+25-11-2024 11:20:27 - INFO - 127.0.0.1 - - [25/Nov/2024 11:20:27] "POST / HTTP/1.1" 200 -
+25-11-2024 11:20:35 - INFO - Code executed successfully.
+25-11-2024 11:20:35 - INFO - 127.0.0.1 - - [25/Nov/2024 11:20:35] "POST / HTTP/1.1" 200 -
+25-11-2024 11:21:18 - INFO - Data successfully deserialized.
+25-11-2024 11:21:18 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:21:18 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:21:20 - INFO - Code executed successfully.
+25-11-2024 11:21:20 - INFO - 127.0.0.1 - - [25/Nov/2024 11:21:20] "POST / HTTP/1.1" 200 -
+25-11-2024 11:21:22 - INFO - Code executed successfully.
+25-11-2024 11:21:22 - INFO - 127.0.0.1 - - [25/Nov/2024 11:21:22] "POST / HTTP/1.1" 200 -
+25-11-2024 11:21:23 - INFO - Code executed successfully.
+25-11-2024 11:21:23 - INFO - 127.0.0.1 - - [25/Nov/2024 11:21:23] "POST / HTTP/1.1" 200 -
+25-11-2024 11:21:24 - INFO - Code executed successfully.
+25-11-2024 11:21:24 - INFO - 127.0.0.1 - - [25/Nov/2024 11:21:24] "POST / HTTP/1.1" 200 -
+25-11-2024 11:21:26 - INFO - Code executed successfully.
+25-11-2024 11:21:26 - INFO - 127.0.0.1 - - [25/Nov/2024 11:21:26] "POST / HTTP/1.1" 200 -
+25-11-2024 11:22:09 - INFO - Data successfully deserialized.
+25-11-2024 11:22:09 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:22:09 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:22:11 - ERROR - Error in similarity detection--> {e}
+25-11-2024 11:22:11 - INFO - Code executed successfully.
+25-11-2024 11:22:11 - INFO - 127.0.0.1 - - [25/Nov/2024 11:22:11] "POST / HTTP/1.1" 200 -
+25-11-2024 11:22:12 - ERROR - Error in similarity detection--> {e}
+25-11-2024 11:22:12 - INFO - Code executed successfully.
+25-11-2024 11:22:12 - INFO - 127.0.0.1 - - [25/Nov/2024 11:22:12] "POST / HTTP/1.1" 200 -
+25-11-2024 11:23:33 - INFO - Data successfully deserialized.
+25-11-2024 11:23:33 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 11:23:33 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 11:23:34 - INFO - Code executed successfully.
+25-11-2024 11:23:34 - INFO - 127.0.0.1 - - [25/Nov/2024 11:23:34] "POST / HTTP/1.1" 200 -
+25-11-2024 11:23:36 - INFO - Code executed successfully.
+25-11-2024 11:23:36 - INFO - 127.0.0.1 - - [25/Nov/2024 11:23:36] "POST / HTTP/1.1" 200 -
+25-11-2024 11:23:43 - INFO - Code executed successfully.
+25-11-2024 11:23:43 - INFO - 127.0.0.1 - - [25/Nov/2024 11:23:43] "POST / HTTP/1.1" 200 -
+25-11-2024 11:54:06 - INFO - Code executed successfully.
+25-11-2024 11:54:06 - INFO - 127.0.0.1 - - [25/Nov/2024 11:54:06] "POST / HTTP/1.1" 200 -
+25-11-2024 11:54:19 - INFO - Code executed successfully.
+25-11-2024 11:54:19 - INFO - 127.0.0.1 - - [25/Nov/2024 11:54:19] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:06 - INFO - Code executed successfully.
+25-11-2024 11:55:06 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:06] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:13 - INFO - Code executed successfully.
+25-11-2024 11:55:13 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:13] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:16 - INFO - Code executed successfully.
+25-11-2024 11:55:16 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:16] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:17 - INFO - Code executed successfully.
+25-11-2024 11:55:17 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:17] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:18 - INFO - Code executed successfully.
+25-11-2024 11:55:18 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:18] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:19 - INFO - Code executed successfully.
+25-11-2024 11:55:19 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:19] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:20 - INFO - Code executed successfully.
+25-11-2024 11:55:20 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:20] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:26 - INFO - Code executed successfully.
+25-11-2024 11:55:26 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:26] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:37 - INFO - Code executed successfully.
+25-11-2024 11:55:37 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:37] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:41 - INFO - Code executed successfully.
+25-11-2024 11:55:41 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:41] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:42 - INFO - Code executed successfully.
+25-11-2024 11:55:42 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:42] "POST / HTTP/1.1" 200 -
+25-11-2024 11:55:44 - INFO - Code executed successfully.
+25-11-2024 11:55:44 - INFO - 127.0.0.1 - - [25/Nov/2024 11:55:44] "POST / HTTP/1.1" 200 -
+25-11-2024 11:56:09 - INFO - Code executed successfully.
+25-11-2024 11:56:09 - INFO - 127.0.0.1 - - [25/Nov/2024 11:56:09] "POST / HTTP/1.1" 200 -
+25-11-2024 11:56:26 - INFO - Code executed successfully.
+25-11-2024 11:56:26 - INFO - 127.0.0.1 - - [25/Nov/2024 11:56:26] "POST / HTTP/1.1" 200 -
+25-11-2024 11:56:34 - INFO - Code executed successfully.
+25-11-2024 11:56:34 - INFO - 127.0.0.1 - - [25/Nov/2024 11:56:34] "POST / HTTP/1.1" 200 -
+25-11-2024 11:56:39 - INFO - Code executed successfully.
+25-11-2024 11:56:39 - INFO - 127.0.0.1 - - [25/Nov/2024 11:56:39] "POST / HTTP/1.1" 200 -
+25-11-2024 12:00:42 - INFO - Code executed successfully.
+25-11-2024 12:00:42 - INFO - 127.0.0.1 - - [25/Nov/2024 12:00:42] "POST / HTTP/1.1" 200 -
+25-11-2024 12:19:33 - INFO - Data successfully deserialized.
+25-11-2024 12:19:33 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 12:19:33 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 12:19:34 - INFO - Code executed successfully.
+25-11-2024 12:19:34 - INFO - 127.0.0.1 - - [25/Nov/2024 12:19:34] "POST / HTTP/1.1" 200 -
+25-11-2024 12:19:44 - INFO - Code executed successfully.
+25-11-2024 12:19:44 - INFO - 127.0.0.1 - - [25/Nov/2024 12:19:44] "POST / HTTP/1.1" 200 -
+25-11-2024 12:19:49 - INFO - Code executed successfully.
+25-11-2024 12:19:49 - INFO - 127.0.0.1 - - [25/Nov/2024 12:19:49] "POST / HTTP/1.1" 200 -
+25-11-2024 12:19:58 - INFO - Code executed successfully.
+25-11-2024 12:19:58 - INFO - 127.0.0.1 - - [25/Nov/2024 12:19:58] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:05 - INFO - Code executed successfully.
+25-11-2024 12:20:05 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:05] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:06 - INFO - Code executed successfully.
+25-11-2024 12:20:06 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:06] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:08 - INFO - Code executed successfully.
+25-11-2024 12:20:08 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:08] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:09 - INFO - Code executed successfully.
+25-11-2024 12:20:09 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:09] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:16 - INFO - Code executed successfully.
+25-11-2024 12:20:16 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:16] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:24 - INFO - Code executed successfully.
+25-11-2024 12:20:24 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:24] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:29 - INFO - Code executed successfully.
+25-11-2024 12:20:29 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:29] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:31 - INFO - Code executed successfully.
+25-11-2024 12:20:31 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:31] "POST / HTTP/1.1" 200 -
+25-11-2024 12:20:32 - INFO - Code executed successfully.
+25-11-2024 12:20:32 - INFO - 127.0.0.1 - - [25/Nov/2024 12:20:32] "POST / HTTP/1.1" 200 -
+25-11-2024 12:21:13 - INFO - Data successfully deserialized.
+25-11-2024 12:21:13 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 12:21:13 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 12:21:16 - INFO - Code executed successfully.
+25-11-2024 12:21:16 - INFO - 127.0.0.1 - - [25/Nov/2024 12:21:16] "POST / HTTP/1.1" 200 -
+25-11-2024 12:21:17 - INFO - Code executed successfully.
+25-11-2024 12:21:17 - INFO - 127.0.0.1 - - [25/Nov/2024 12:21:17] "POST / HTTP/1.1" 200 -
+25-11-2024 12:21:19 - INFO - Code executed successfully.
+25-11-2024 12:21:19 - INFO - 127.0.0.1 - - [25/Nov/2024 12:21:19] "POST / HTTP/1.1" 200 -
+25-11-2024 12:21:49 - INFO - Code executed successfully.
+25-11-2024 12:21:49 - INFO - 127.0.0.1 - - [25/Nov/2024 12:21:49] "POST / HTTP/1.1" 200 -
+25-11-2024 12:22:04 - INFO - Data successfully deserialized.
+25-11-2024 12:22:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 12:22:04 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 12:22:11 - INFO - Code executed successfully.
+25-11-2024 12:22:11 - INFO - 127.0.0.1 - - [25/Nov/2024 12:22:11] "POST / HTTP/1.1" 200 -
+25-11-2024 12:22:13 - INFO - Code executed successfully.
+25-11-2024 12:22:13 - INFO - 127.0.0.1 - - [25/Nov/2024 12:22:13] "POST / HTTP/1.1" 200 -
+25-11-2024 12:22:19 - INFO - Code executed successfully.
+25-11-2024 12:22:19 - INFO - 127.0.0.1 - - [25/Nov/2024 12:22:19] "POST / HTTP/1.1" 200 -
+25-11-2024 12:22:28 - ERROR - app.py--> invalid literal for int() with base 10: 'areba'
+25-11-2024 12:22:28 - INFO - 127.0.0.1 - - [25/Nov/2024 12:22:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-11-2024 12:22:40 - INFO - Code executed successfully.
+25-11-2024 12:22:40 - INFO - 127.0.0.1 - - [25/Nov/2024 12:22:40] "POST / HTTP/1.1" 200 -
+25-11-2024 12:22:47 - INFO - Code executed successfully.
+25-11-2024 12:22:47 - INFO - 127.0.0.1 - - [25/Nov/2024 12:22:47] "POST / HTTP/1.1" 200 -
+25-11-2024 12:29:21 - INFO - Data successfully deserialized.
+25-11-2024 12:29:21 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 12:29:21 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 12:29:24 - INFO - Code executed successfully.
+25-11-2024 12:29:24 - INFO - 127.0.0.1 - - [25/Nov/2024 12:29:24] "POST / HTTP/1.1" 200 -
+25-11-2024 12:29:27 - INFO - Code executed successfully.
+25-11-2024 12:29:27 - INFO - 127.0.0.1 - - [25/Nov/2024 12:29:27] "POST / HTTP/1.1" 200 -
+25-11-2024 12:29:34 - INFO - Code executed successfully.
+25-11-2024 12:29:34 - INFO - 127.0.0.1 - - [25/Nov/2024 12:29:34] "POST / HTTP/1.1" 200 -
+25-11-2024 14:05:53 - INFO - Data successfully deserialized.
+25-11-2024 14:05:53 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 14:05:53 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 14:06:15 - INFO - Code executed successfully.
+25-11-2024 14:06:15 - INFO - 127.0.0.1 - - [25/Nov/2024 14:06:15] "POST / HTTP/1.1" 200 -
+25-11-2024 14:06:19 - INFO - Code executed successfully.
+25-11-2024 14:06:19 - INFO - 127.0.0.1 - - [25/Nov/2024 14:06:19] "POST / HTTP/1.1" 200 -
+25-11-2024 14:06:21 - INFO - Code executed successfully.
+25-11-2024 14:06:21 - INFO - 127.0.0.1 - - [25/Nov/2024 14:06:21] "POST / HTTP/1.1" 200 -
+25-11-2024 14:06:22 - INFO - Code executed successfully.
+25-11-2024 14:06:22 - INFO - 127.0.0.1 - - [25/Nov/2024 14:06:22] "POST / HTTP/1.1" 200 -
+25-11-2024 14:06:44 - INFO - Data successfully deserialized.
+25-11-2024 14:06:44 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 14:06:44 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 14:06:50 - INFO - Code executed successfully.
+25-11-2024 14:06:50 - INFO - 127.0.0.1 - - [25/Nov/2024 14:06:50] "POST / HTTP/1.1" 200 -
+25-11-2024 14:07:00 - INFO - Code executed successfully.
+25-11-2024 14:07:00 - INFO - 127.0.0.1 - - [25/Nov/2024 14:07:00] "POST / HTTP/1.1" 200 -
+25-11-2024 14:07:14 - INFO - Code executed successfully.
+25-11-2024 14:07:14 - INFO - 127.0.0.1 - - [25/Nov/2024 14:07:14] "POST / HTTP/1.1" 200 -
+25-11-2024 14:07:45 - INFO - Data successfully deserialized.
+25-11-2024 14:07:45 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 14:07:45 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 14:07:48 - INFO - Code executed successfully.
+25-11-2024 14:07:48 - INFO - 127.0.0.1 - - [25/Nov/2024 14:07:48] "POST / HTTP/1.1" 200 -
+25-11-2024 14:07:56 - INFO - Code executed successfully.
+25-11-2024 14:07:56 - INFO - 127.0.0.1 - - [25/Nov/2024 14:07:56] "POST / HTTP/1.1" 200 -
+25-11-2024 14:07:58 - INFO - Code executed successfully.
+25-11-2024 14:07:58 - INFO - 127.0.0.1 - - [25/Nov/2024 14:07:58] "POST / HTTP/1.1" 200 -
+25-11-2024 14:07:59 - INFO - Code executed successfully.
+25-11-2024 14:07:59 - INFO - 127.0.0.1 - - [25/Nov/2024 14:07:59] "POST / HTTP/1.1" 200 -
+25-11-2024 14:08:12 - INFO - Code executed successfully.
+25-11-2024 14:08:12 - INFO - 127.0.0.1 - - [25/Nov/2024 14:08:12] "POST / HTTP/1.1" 200 -
+25-11-2024 14:08:21 - INFO - Code executed successfully.
+25-11-2024 14:08:21 - INFO - 127.0.0.1 - - [25/Nov/2024 14:08:21] "POST / HTTP/1.1" 200 -
+25-11-2024 14:08:23 - INFO - Code executed successfully.
+25-11-2024 14:08:23 - INFO - 127.0.0.1 - - [25/Nov/2024 14:08:23] "POST / HTTP/1.1" 200 -
+25-11-2024 14:08:24 - INFO - Code executed successfully.
+25-11-2024 14:08:24 - INFO - 127.0.0.1 - - [25/Nov/2024 14:08:24] "POST / HTTP/1.1" 200 -
+25-11-2024 14:08:25 - INFO - Code executed successfully.
+25-11-2024 14:08:25 - INFO - 127.0.0.1 - - [25/Nov/2024 14:08:25] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:17 - INFO - Data successfully deserialized.
+25-11-2024 14:14:17 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+25-11-2024 14:14:17 - INFO - [33mPress CTRL+C to quit[0m
+25-11-2024 14:14:18 - INFO - Code executed successfully.
+25-11-2024 14:14:18 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:18] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:20 - INFO - Code executed successfully.
+25-11-2024 14:14:20 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:20] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:21 - INFO - Code executed successfully.
+25-11-2024 14:14:21 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:21] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:23 - INFO - Code executed successfully.
+25-11-2024 14:14:23 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:23] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:24 - INFO - Code executed successfully.
+25-11-2024 14:14:24 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:24] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:27 - INFO - Code executed successfully.
+25-11-2024 14:14:27 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:27] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:29 - INFO - Code executed successfully.
+25-11-2024 14:14:29 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:29] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:30 - INFO - Code executed successfully.
+25-11-2024 14:14:30 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:30] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:39 - INFO - Code executed successfully.
+25-11-2024 14:14:39 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:39] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:43 - INFO - Code executed successfully.
+25-11-2024 14:14:43 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:43] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:45 - INFO - Code executed successfully.
+25-11-2024 14:14:45 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:45] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:46 - INFO - Code executed successfully.
+25-11-2024 14:14:46 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:46] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:48 - INFO - Code executed successfully.
+25-11-2024 14:14:48 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:48] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:50 - INFO - Code executed successfully.
+25-11-2024 14:14:50 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:50] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:57 - INFO - Code executed successfully.
+25-11-2024 14:14:57 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:57] "POST / HTTP/1.1" 200 -
+25-11-2024 14:14:59 - INFO - Code executed successfully.
+25-11-2024 14:14:59 - INFO - 127.0.0.1 - - [25/Nov/2024 14:14:59] "POST / HTTP/1.1" 200 -
+29-11-2024 14:23:54 - INFO - Data successfully deserialized.
+29-11-2024 14:23:54 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+29-11-2024 14:23:54 - INFO - [33mPress CTRL+C to quit[0m
+29-11-2024 14:24:04 - INFO - Code executed successfully.
+29-11-2024 14:24:04 - INFO - 127.0.0.1 - - [29/Nov/2024 14:24:04] "POST / HTTP/1.1" 200 -
+29-11-2024 15:02:43 - INFO - Code executed successfully.
+29-11-2024 15:02:43 - INFO - 127.0.0.1 - - [29/Nov/2024 15:02:43] "POST / HTTP/1.1" 200 -
+29-11-2024 15:03:28 - INFO - Code executed successfully.
+29-11-2024 15:03:28 - INFO - 127.0.0.1 - - [29/Nov/2024 15:03:28] "POST / HTTP/1.1" 200 -
+29-11-2024 15:03:37 - INFO - Code executed successfully.
+29-11-2024 15:03:37 - INFO - 127.0.0.1 - - [29/Nov/2024 15:03:37] "POST / HTTP/1.1" 200 -
+29-11-2024 15:03:47 - INFO - Code executed successfully.
+29-11-2024 15:03:47 - INFO - 127.0.0.1 - - [29/Nov/2024 15:03:47] "POST / HTTP/1.1" 200 -
+29-11-2024 15:04:00 - INFO - Code executed successfully.
+29-11-2024 15:04:00 - INFO - 127.0.0.1 - - [29/Nov/2024 15:04:00] "POST / HTTP/1.1" 200 -
+29-11-2024 15:04:39 - INFO - Data successfully deserialized.
+29-11-2024 15:04:39 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+29-11-2024 15:04:39 - INFO - [33mPress CTRL+C to quit[0m
+29-11-2024 15:04:46 - ERROR - Error in data loading--> 'bi\u0307lki\u0307sayar'
+29-11-2024 15:04:46 - ERROR - app.py--> not enough values to unpack (expected 2, got 0)
+29-11-2024 15:04:46 - INFO - 127.0.0.1 - - [29/Nov/2024 15:04:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+29-11-2024 15:05:26 - INFO - Data successfully deserialized.
+29-11-2024 15:05:26 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+29-11-2024 15:05:26 - INFO - [33mPress CTRL+C to quit[0m
+29-11-2024 15:05:27 - INFO - Code executed successfully.
+29-11-2024 15:05:27 - INFO - 127.0.0.1 - - [29/Nov/2024 15:05:27] "POST / HTTP/1.1" 200 -
+29-11-2024 15:05:54 - INFO - Code executed successfully.
+29-11-2024 15:05:54 - INFO - 127.0.0.1 - - [29/Nov/2024 15:05:54] "POST / HTTP/1.1" 200 -
+02-12-2024 09:02:59 - INFO - Data successfully deserialized.
+02-12-2024 09:02:59 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+02-12-2024 09:02:59 - INFO - [33mPress CTRL+C to quit[0m
+02-12-2024 09:03:17 - INFO - Code executed successfully.
+02-12-2024 09:03:17 - INFO - 127.0.0.1 - - [02/Dec/2024 09:03:17] "POST / HTTP/1.1" 200 -
+02-12-2024 09:03:34 - INFO - Code executed successfully.
+02-12-2024 09:03:34 - INFO - 127.0.0.1 - - [02/Dec/2024 09:03:34] "POST / HTTP/1.1" 200 -
+02-12-2024 09:04:01 - INFO - Data successfully deserialized.
+02-12-2024 09:04:01 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+02-12-2024 09:04:01 - INFO - [33mPress CTRL+C to quit[0m
+02-12-2024 09:04:14 - INFO - Code executed successfully.
+02-12-2024 09:04:14 - INFO - 127.0.0.1 - - [02/Dec/2024 09:04:14] "POST / HTTP/1.1" 200 -
+02-12-2024 09:04:21 - INFO - Code executed successfully.
+02-12-2024 09:04:21 - INFO - 127.0.0.1 - - [02/Dec/2024 09:04:21] "POST / HTTP/1.1" 200 -
+02-12-2024 09:04:57 - INFO - Data successfully deserialized.
+02-12-2024 09:04:57 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+02-12-2024 09:04:57 - INFO - [33mPress CTRL+C to quit[0m
+02-12-2024 09:05:01 - INFO - Code executed successfully.
+02-12-2024 09:05:01 - INFO - 127.0.0.1 - - [02/Dec/2024 09:05:01] "POST / HTTP/1.1" 200 -
+02-12-2024 09:06:10 - INFO - Data successfully deserialized.
+02-12-2024 09:06:10 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+02-12-2024 09:06:10 - INFO - [33mPress CTRL+C to quit[0m
+02-12-2024 09:06:14 - INFO - Code executed successfully.
+02-12-2024 09:06:14 - INFO - 127.0.0.1 - - [02/Dec/2024 09:06:14] "POST / HTTP/1.1" 200 -
+02-12-2024 09:06:32 - INFO - Code executed successfully.
+02-12-2024 09:06:32 - INFO - 127.0.0.1 - - [02/Dec/2024 09:06:32] "POST / HTTP/1.1" 200 -
+02-12-2024 09:07:17 - INFO - Code executed successfully.
+02-12-2024 09:07:17 - INFO - 127.0.0.1 - - [02/Dec/2024 09:07:17] "POST / HTTP/1.1" 200 -
+02-12-2024 09:07:23 - INFO - Code executed successfully.
+02-12-2024 09:07:23 - INFO - 127.0.0.1 - - [02/Dec/2024 09:07:23] "POST / HTTP/1.1" 200 -
+02-12-2024 09:07:30 - INFO - Code executed successfully.
+02-12-2024 09:07:30 - INFO - 127.0.0.1 - - [02/Dec/2024 09:07:30] "POST / HTTP/1.1" 200 -
+02-12-2024 09:07:39 - INFO - Code executed successfully.
+02-12-2024 09:07:39 - INFO - 127.0.0.1 - - [02/Dec/2024 09:07:39] "POST / HTTP/1.1" 200 -
+02-12-2024 09:08:01 - INFO - Code executed successfully.
+02-12-2024 09:08:01 - INFO - 127.0.0.1 - - [02/Dec/2024 09:08:01] "POST / HTTP/1.1" 200 -
+02-12-2024 09:08:17 - INFO - Code executed successfully.
+02-12-2024 09:08:17 - INFO - 127.0.0.1 - - [02/Dec/2024 09:08:17] "POST / HTTP/1.1" 200 -
+02-12-2024 09:08:31 - INFO - Code executed successfully.
+02-12-2024 09:08:31 - INFO - 127.0.0.1 - - [02/Dec/2024 09:08:31] "POST / HTTP/1.1" 200 -
+02-12-2024 09:08:41 - INFO - Code executed successfully.
+02-12-2024 09:08:41 - INFO - 127.0.0.1 - - [02/Dec/2024 09:08:41] "POST / HTTP/1.1" 200 -
+02-12-2024 09:08:57 - INFO - Code executed successfully.
+02-12-2024 09:08:57 - INFO - 127.0.0.1 - - [02/Dec/2024 09:08:57] "POST / HTTP/1.1" 200 -
+02-12-2024 09:09:11 - INFO - Code executed successfully.
+02-12-2024 09:09:11 - INFO - 127.0.0.1 - - [02/Dec/2024 09:09:11] "POST / HTTP/1.1" 200 -
+02-12-2024 09:09:25 - INFO - Code executed successfully.
+02-12-2024 09:09:25 - INFO - 127.0.0.1 - - [02/Dec/2024 09:09:25] "POST / HTTP/1.1" 200 -
+02-12-2024 09:16:33 - INFO - Data successfully deserialized.
+02-12-2024 09:16:33 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+02-12-2024 09:16:33 - INFO - [33mPress CTRL+C to quit[0m
+02-12-2024 09:16:33 - INFO - Code executed successfully.
+02-12-2024 09:16:33 - INFO - 127.0.0.1 - - [02/Dec/2024 09:16:33] "POST / HTTP/1.1" 200 -
+02-12-2024 09:16:46 - INFO - Code executed successfully.
+02-12-2024 09:16:46 - INFO - 127.0.0.1 - - [02/Dec/2024 09:16:46] "POST / HTTP/1.1" 200 -
+02-12-2024 09:16:49 - INFO - Code executed successfully.
+02-12-2024 09:16:49 - INFO - 127.0.0.1 - - [02/Dec/2024 09:16:49] "POST / HTTP/1.1" 200 -
+02-12-2024 09:21:58 - INFO - Data successfully deserialized.
+02-12-2024 09:21:58 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+02-12-2024 09:21:58 - INFO - [33mPress CTRL+C to quit[0m
+02-12-2024 09:21:59 - INFO - Code executed successfully.
+02-12-2024 09:21:59 - INFO - 127.0.0.1 - - [02/Dec/2024 09:21:59] "POST / HTTP/1.1" 200 -
+02-12-2024 09:22:22 - INFO - Code executed successfully.
+02-12-2024 09:22:22 - INFO - 127.0.0.1 - - [02/Dec/2024 09:22:22] "POST / HTTP/1.1" 200 -
+02-12-2024 09:22:26 - INFO - Code executed successfully.
+02-12-2024 09:22:26 - INFO - 127.0.0.1 - - [02/Dec/2024 09:22:26] "POST / HTTP/1.1" 200 -
+02-12-2024 09:22:27 - INFO - Code executed successfully.
+02-12-2024 09:22:27 - INFO - 127.0.0.1 - - [02/Dec/2024 09:22:27] "POST / HTTP/1.1" 200 -
+02-12-2024 09:22:28 - INFO - Code executed successfully.
+02-12-2024 09:22:28 - INFO - 127.0.0.1 - - [02/Dec/2024 09:22:28] "POST / HTTP/1.1" 200 -
+02-12-2024 09:30:18 - INFO - Data successfully deserialized.
+02-12-2024 09:30:18 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.100.25.13:5000
+02-12-2024 09:30:18 - INFO - [33mPress CTRL+C to quit[0m
+02-12-2024 09:30:20 - INFO - Code executed successfully.
+02-12-2024 09:30:20 - INFO - 127.0.0.1 - - [02/Dec/2024 09:30:20] "POST / HTTP/1.1" 200 -
+02-12-2024 09:30:29 - INFO - Code executed successfully.
+02-12-2024 09:30:29 - INFO - 127.0.0.1 - - [02/Dec/2024 09:30:29] "POST / HTTP/1.1" 200 -
